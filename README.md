@@ -2,7 +2,7 @@
 
 # How to run?
 
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Create a environment 
 
 ```bash
 python -m venv env
